@@ -1,4 +1,4 @@
-Hi, I'm Brandon -- a python developer with a background in usability.
+Hi, I'm Brandon -- a full-stack developer with a background in usability.
 
 Okay, Google send.
 

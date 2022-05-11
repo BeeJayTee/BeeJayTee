@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon Tucker</h1>
 <h3 align="center">A passionate full-stack developer from Toronto</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beejaytee" alt="beejaytee" /></a> </p>
-
 - 🔭 I’m currently working on [Crop Exchange]({conceptual stage})
 
 - 🌱 I’m currently learning **Rust, Node.js, React.js**

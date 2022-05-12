@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Tucker</h1>
 <h3 align="center">A passionate full-stack developer from Toronto</h3>
 
-- 🔭 I’m currently working on [Crop Exchange]({conceptual stage})
+- 🔭 I’m currently working on [Chef to Table]({conceptual stage})
 
 - 🌱 I’m currently learning **Rust, Node.js, React.js**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Tucker</h1>
 <h3 align="center">A passionate full-stack developer from Toronto</h3>
 
-- 🔭 I’m currently working on [Chef to Table]({conceptual stage})
+- 🔭 I’m currently working on Farm to Chef, a platform for local producers to connect with chefs to sell their products. 
 
 - 🌱 I’m currently learning **Rust, Node.js, React.js**
 
